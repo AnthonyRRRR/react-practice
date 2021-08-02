@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1abc9095-2db7-4d09-b25b-08c1da374308" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CardsView/CardsView.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CardsView/CardsView.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CardsView/ShopCard/ShopCard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CardsView/ShopCard/ShopCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IconSwitch/IconSwitch.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IconSwitch/IconSwitch.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ListView/ListView.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ListView/ListView.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ListView/ShopItem/ShopItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ListView/ShopItem/ShotItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Store/Store.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="React functional component" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qTDtNNkBYSJZaicTr5xQ3QUCHZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1abc9095-2db7-4d09-b25b-08c1da374308" name="Default Changelist" comment="" />
+      <created>1617094899738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617094899738</updated>
+      <workItem from="1617094902874" duration="5378000" />
+      <workItem from="1617180350342" duration="8948000" />
+      <workItem from="1617895263712" duration="598000" />
+      <workItem from="1617898213159" duration="456000" />
+      <workItem from="1618047617724" duration="480000" />
+      <workItem from="1619354751901" duration="1370000" />
+      <workItem from="1619361591777" duration="901000" />
+      <workItem from="1619363762949" duration="104000" />
+      <workItem from="1619365662834" duration="560000" />
+      <workItem from="1619537728003" duration="20000" />
+      <workItem from="1623830383095" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

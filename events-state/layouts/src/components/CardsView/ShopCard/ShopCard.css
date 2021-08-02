@@ -1,0 +1,45 @@
+.ShopCard {
+    padding-bottom: 50px;
+}
+
+.ShopCard__img {
+    height: 300px;
+}
+
+.ShopCard__img-box {
+    padding-top: 40px;
+}
+
+.ShopCard__bottom {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+
+.ShopCard__name {
+    padding: 10px;
+    font-size: 28px;
+    text-align: center;
+}
+
+.ShopCard__color {
+    font-size: 17px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.ShopCard__price {
+    font-size: 25px;
+    color: #ff2c18;
+}
+
+.ShopCard__button {
+    background: none;
+    font-size: 17px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: 1px solid #ff2c18;
+    color: #ff2c18;
+    border-radius: 10px;
+    padding: 10px 20px;
+}

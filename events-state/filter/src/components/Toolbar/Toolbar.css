@@ -1,0 +1,15 @@
+.Toolbar-button {
+    padding: 10px;
+    background: none;
+    border: 1px solid #333;
+    color: #333;
+}
+
+.Toolbar-button_active {
+    background: #333;
+    color: #fff;
+}
+
+.Toolbar-button:nth-child(n+2) {
+    margin-left: 10px;
+}
