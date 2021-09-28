@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fbf9c29-98d8-45d3-8821-dc83e4bfe609" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../thunk/api-thunk/backend/.foreverignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thunk/api-thunk/backend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thunk/api-thunk/backend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thunk/api-thunk/backend/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thunk/api-thunk/frontend/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thunk/api-thunk/frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thunk/api-thunk/frontend/src/actions/actionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thunk/api-thunk/frontend/src/actions/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thunk/api-thunk/frontend/src/components/ErrorAlert.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thunk/api-thunk/frontend/src/components/Loader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thunk/api-thunk/frontend/src/components/ServiceAdd.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thunk/api-thunk/frontend/src/components/ServiceEdit.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thunk/api-thunk/frontend/src/components/ServiceList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thunk/api-thunk/frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thunk/api-thunk/frontend/src/reducers/serviceAddReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thunk/api-thunk/frontend/src/reducers/serviceEditReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thunk/api-thunk/frontend/src/reducers/serviceListReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thunk/api-thunk/frontend/src/reducers/serviceUpdateReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thunk/api-thunk/frontend/src/store/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1xrZEd74QR9RCxbjBfcp7SAD3py" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="npm.start (1)">
+    <configuration name="prestart" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="prestart" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start (1)" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.prestart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fbf9c29-98d8-45d3-8821-dc83e4bfe609" name="Default Changelist" comment="" />
+      <created>1631115056880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631115056880</updated>
+      <workItem from="1631115058630" duration="367000" />
+      <workItem from="1631115466868" duration="71000" />
+      <workItem from="1631115563856" duration="303000" />
+      <workItem from="1631115903127" duration="80000" />
+      <workItem from="1631116162470" duration="353000" />
+      <workItem from="1631202997005" duration="3432000" />
+      <workItem from="1631213909276" duration="1592000" />
+      <workItem from="1631328564271" duration="7000" />
+      <workItem from="1631328587763" duration="841000" />
+      <workItem from="1631970160574" duration="1399000" />
+      <workItem from="1631975043006" duration="481000" />
+      <workItem from="1631975774137" duration="1226000" />
+      <workItem from="1631977057852" duration="919000" />
+      <workItem from="1632330212149" duration="613000" />
+      <workItem from="1632572109081" duration="208000" />
+      <workItem from="1632572444212" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1259" height="211" key="GridCell.Tab.0.bottom" timestamp="1631329442084">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="211" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1631329442084" />
+    <state width="1259" height="211" key="GridCell.Tab.0.bottom/0.25.1280.775@0.25.1280.775" timestamp="1631215515121" />
+    <state width="1259" height="211" key="GridCell.Tab.0.center" timestamp="1631329442083">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="211" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1631329442083" />
+    <state width="1259" height="211" key="GridCell.Tab.0.center/0.25.1280.775@0.25.1280.775" timestamp="1631215515119" />
+    <state width="1259" height="211" key="GridCell.Tab.0.left" timestamp="1631329442082">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="211" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1631329442082" />
+    <state width="1259" height="211" key="GridCell.Tab.0.left/0.25.1280.775@0.25.1280.775" timestamp="1631215515117" />
+    <state width="1259" height="211" key="GridCell.Tab.0.right" timestamp="1631329442084">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="211" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1631329442084" />
+    <state width="1259" height="211" key="GridCell.Tab.0.right/0.25.1280.775@0.25.1280.775" timestamp="1631215515120" />
+  </component>
+</project>

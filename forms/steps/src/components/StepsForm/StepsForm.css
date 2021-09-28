@@ -1,0 +1,28 @@
+.StepsForm-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: baseline;
+    margin: 20px 0;
+}
+
+.StepsForm__input-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.StepsForm__input {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.StepsForm__button {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: transparent;
+}
+

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1f82fbd-21b5-490b-bf59-05885cf8d5cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/DataComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/ErrorComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/LoadingComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/hooks/useJsonFetch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="React functional component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+  </component>
+  <component name="ProjectId" id="1uG1yFMx4UHmX5OO0V0vpKuftH8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/backend/server.js" working-dir="$PROJECT_DIR$/backend">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.server.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1f82fbd-21b5-490b-bf59-05885cf8d5cb" name="Default Changelist" comment="" />
+      <created>1624277364259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624277364259</updated>
+      <workItem from="1624277367098" duration="320000" />
+      <workItem from="1624287473962" duration="497000" />
+      <workItem from="1624287981999" duration="137000" />
+      <workItem from="1624288451474" duration="1456000" />
+      <workItem from="1624290405990" duration="2422000" />
+      <workItem from="1624293706755" duration="995000" />
+      <workItem from="1624294796437" duration="282000" />
+      <workItem from="1624463834150" duration="51000" />
+      <workItem from="1624548931640" duration="43000" />
+      <workItem from="1625133088107" duration="49000" />
+      <workItem from="1625133366590" duration="503000" />
+      <workItem from="1625317201251" duration="350000" />
+      <workItem from="1625320988007" duration="49000" />
+      <workItem from="1625321740463" duration="78000" />
+      <workItem from="1625322128475" duration="92000" />
+      <workItem from="1626017740812" duration="232000" />
+      <workItem from="1627285549498" duration="16000" />
+      <workItem from="1627285651152" duration="7000" />
+      <workItem from="1627374017605" duration="92000" />
+      <workItem from="1627377619405" duration="61000" />
+      <workItem from="1627378307394" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1259" height="117" key="GridCell.Tab.0.bottom" timestamp="1626017972472">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="117" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1626017972472" />
+    <state width="1259" height="117" key="GridCell.Tab.0.center" timestamp="1626017972471">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="117" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1626017972471" />
+    <state width="1259" height="117" key="GridCell.Tab.0.left" timestamp="1626017972470">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="117" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1626017972470" />
+    <state width="1259" height="117" key="GridCell.Tab.0.right" timestamp="1626017972471">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="117" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1626017972471" />
+    <state x="423" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624293708266">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="423" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1624293708266" />
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/composition/cards" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/composition/collapse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/composition/decomposition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/events-state/dropdown" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/events-state/filter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/events-state/layouts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/forms/hex2rgb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/forms/photo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/forms/steps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hoc/aggregation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hoc/highlight" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hoc/time" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hooks-context/authentication/frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hooks-context/use-effect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hooks-context/use-json-fetch/frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lifecycle-http/crud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lifecycle-http/watches" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/props/chat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/props/films" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/props/listing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/router/crud/frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/router/menu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thunk/api-redux/frontend" vcs="Git" />
+  </component>
+</project>

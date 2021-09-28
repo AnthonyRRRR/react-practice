@@ -1,0 +1,22 @@
+.WorkoutsList__title-container {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 0;
+}
+
+.WorkoutsList-container {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 10px 0;
+}
+
+.WorkoutsList-container__button {
+    background-color: transparent;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}

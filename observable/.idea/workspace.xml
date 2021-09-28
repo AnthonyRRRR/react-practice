@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc69386a-029f-4314-9a31-23cdb90e425e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main-details/frontend/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main-details/frontend/src/actions/actionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main-details/frontend/src/actions/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main-details/frontend/src/components/ErrorAlert.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main-details/frontend/src/components/Loader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main-details/frontend/src/components/ServiceDetails.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main-details/frontend/src/components/ServiceList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main-details/frontend/src/epics/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main-details/frontend/src/reducers/serviceDetailsReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main-details/frontend/src/reducers/serviceListReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main-details/frontend/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main-details/rxjs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/frontend/src/Skills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/frontend/src/actions/actionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/frontend/src/actions/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/frontend/src/epics/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/frontend/src/reducers/skills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/frontend/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saga/main-details/frontend/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saga/main-details/frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saga/main-details/frontend/src/actions/actionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saga/main-details/frontend/src/actions/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saga/main-details/frontend/src/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saga/main-details/frontend/src/components/ServiceDetails.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saga/main-details/frontend/src/components/ServiceList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saga/main-details/frontend/src/reducers/serviceDetailsReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saga/main-details/frontend/src/reducers/serviceListReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saga/main-details/frontend/src/sagas/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saga/main-details/frontend/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thunk/api-thunk/frontend/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thunk/api-thunk/frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thunk/api-thunk/frontend/src/actions/actionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thunk/api-thunk/frontend/src/actions/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thunk/api-thunk/frontend/src/components/ErrorAlert.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thunk/api-thunk/frontend/src/components/Loader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thunk/api-thunk/frontend/src/components/ServiceAdd.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thunk/api-thunk/frontend/src/components/ServiceEdit.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thunk/api-thunk/frontend/src/components/ServiceList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thunk/api-thunk/frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thunk/api-thunk/frontend/src/reducers/serviceAddReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thunk/api-thunk/frontend/src/reducers/serviceEditReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thunk/api-thunk/frontend/src/reducers/serviceListReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thunk/api-thunk/frontend/src/reducers/serviceUpdateReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thunk/api-thunk/frontend/src/store/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ym9Rh9AxW6i8j3SL40SFH44rdZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc69386a-029f-4314-9a31-23cdb90e425e" name="Default Changelist" comment="" />
+      <created>1632845889478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632845889478</updated>
+      <workItem from="1632845890803" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog" timestamp="1632845962446">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/0.0.1280.800@0.0.1280.800" timestamp="1632845962446" />
+    <state x="100" y="100" width="1080" height="600" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1632845962447">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="100" y="100" width="1080" height="600" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1280.800@0.0.1280.800" timestamp="1632845962447" />
+  </component>
+</project>

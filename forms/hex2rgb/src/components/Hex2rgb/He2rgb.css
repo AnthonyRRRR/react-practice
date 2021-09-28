@@ -1,0 +1,19 @@
+.He2rgb-container {
+    text-align: center;
+    padding: 10px;
+    margin: 15%;
+}
+
+.He2rgb-container__input {
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.He2rgb-container__output {
+    width: 150px;
+    padding: 10px;
+    margin: 5px auto;
+    border: 1px black solid;
+    border-radius: 5px;
+}
