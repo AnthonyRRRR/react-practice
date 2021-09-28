@@ -127,3 +127,9 @@ fabric.properties
 /observable/.idea/
 /composition/.idea/
 /forms/.idea/
+/observable/.idea/
+/saga/.idea/
+/saga/main-details/.idea/
+/saga/search/.idea/
+/thunk/api-redux/.idea/
+/thunk/api-thunk/.idea/
