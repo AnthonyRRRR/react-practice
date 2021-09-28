@@ -1,0 +1,12 @@
+* {
+  padding: 3px;
+}
+
+.ProfileContent {
+  display: flex;
+}
+
+.card {
+  width: 18rem;
+  margin: 5px;
+}
