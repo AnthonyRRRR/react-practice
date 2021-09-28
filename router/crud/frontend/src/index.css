@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a {
+  text-decoration: none;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.MainPage-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.MainPage__btn {
+  margin: 10px;
+  padding: 10px;
+  border: 1px #282c34 solid;
+  height: 30px;
+}
+
+.post {
+  margin: 10px;
+  padding: 10px;
+  width: 200px;
+  border: 1px #282c34 solid;
+}
+
+.post-img_container {
+  width: 75px;
+  height: 75px;
+}
+
+.post-img {
+  width: 100%;
+  height: 100%;
+}
+
+.NewPostForm {
+  display: flex;
+  position: relative;
+  padding: 10px;
+}
+
+.NewPostForm__btn {
+  display: flex;
+  position: absolute;
+  border: 1px #282c34 solid;
+  border-radius: 10px;
+  height: 20px;
+  top: 10px;
+  left: 200px;
+}
+
+
+.NewPostForm__input {
+  padding: 20px;
+  border-radius: 10px;
+}
