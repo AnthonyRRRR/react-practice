@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.AddWatchForm-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.AddWatchForm__input-container {
+  margin: 10px;
+}
+
+.AddWatchForm__input {
+  display: block;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.AddWatchForm__button-container {
+  margin: 10px;
+}
+
+.AddWatchForm__button {
+  border: 1px solid black;
+  background-color: transparent;
+  padding: 10px;
+}
+
+.WatchList-container {
+  display: flex;
+}
+
+.Watch-container {
+  margin: 10px;
+  width: 150px;
+  position: relative;
+  border: 1px black solid;
+}
+
+.Watch__button-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.Watch__button {
+  border-radius: 10px;
+  background-color: transparent;
+}
+
